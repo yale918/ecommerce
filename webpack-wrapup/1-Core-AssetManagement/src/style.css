@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'MyFont';
+	src: url('./wg_sunrise_font.ttf') format('ttf');
+	font-weight: 600;
+	font-style: normal;
+}
+
+
+
+.hello{
+	border: 1px black solid;
+	color: blue;
+	font-family: 'MyFont';
+	background: url('./icon.jpg');
+}
